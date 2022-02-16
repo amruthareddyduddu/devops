@@ -1,0 +1,4 @@
+pwd
+ls -11
+touch filename
+ifconfig
